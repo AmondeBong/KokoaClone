@@ -3,14 +3,15 @@
 #2(2022.03.08)
 
 <h2>1.tag</h2>
-<br>a = anchor // 웹사이트 이동하는 방법 link는 부가적인 정보(attributes)필요, 어디로 가는지
-<br> href = HTTP reference //이동할 곳 알려주는것 only anchor 에서만 가능 
-<br>(a href = "" target="_self" or "_blank") title (/a)
-<br> target="_self" // default값 only anchor 에서만 가능
-<br> target="_blank" // 다른 tab에서 브라우저 불러오기 only anchor 에서만 가능
-<br> img는 닫는 태그가 없다 self closing tag (img src=""/) 사용
-<br> title 설정 (title)title(/title)
-
+<ul>
+    <li>a = anchor // 웹사이트 이동하는 방법 link는 부가적인 정보(attributes)필요, 어디로 가는지</li>
+    <li> href = HTTP reference //이동할 곳 알려주는것 only anchor 에서만 가능 
+    <br>(a href = "" target="_self" or "_blank") title (/a)</li>
+    <li>target="_self" // default값 only anchor 에서만 가능 
+    <br> target="_blank" // 다른 tab에서 브라우저 불러오기 only anchor 에서만 가능</li>
+    <li>img는 닫는 태그가 없다 self closing tag (img src=""/) 사용</li>
+    <li>title 설정 (title)title(/title)</li>
+</ul>
 <h2>2.list </h2>
 <ul>
     <li>ordered list</li>

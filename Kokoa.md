@@ -1,6 +1,6 @@
 #2(2022.03.08)
-<br>1.tag <h1>tag </h1>
-<br>2.list 
+<h2>1.tag tag </h2>
+<h2>2.list </h2>
 <ul>
     <li>ordered list</li>
     <li>unordered list </li>
